@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("afshhasd")
         print("asdfsdaf")
+        print("asa")
         // Do any additional setup after loading the view.
     }
 
