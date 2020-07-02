@@ -13,7 +13,7 @@ class ThirdViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Change dd1")
+        print("Changeddddd dd1")
 
 
         // Do any additional setup after loading the view.
