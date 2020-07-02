@@ -13,13 +13,6 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("asdf")
-        print("sss")
-        print("sdfasdfasdf")
-        
-        print("sdfasdfasdf")
-
-
 
         // Do any additional setup after loading the view.
     }
