@@ -12,6 +12,7 @@ class ThirdViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("asdf")
 
         // Do any additional setup after loading the view.
     }
