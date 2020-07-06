@@ -13,9 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("branch1")
-        print("branch1")
-        print("branch1")
+        print("Added New code")
 
         
         // Do any additional setup after loading the view.
