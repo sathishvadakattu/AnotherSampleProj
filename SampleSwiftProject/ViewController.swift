@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         print("master code")
         
+        print("New Comments in Master")
+        
         // Do any additional setup after loading the view.
     }
 
