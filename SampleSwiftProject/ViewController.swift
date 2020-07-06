@@ -12,15 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("afshhasd")
-        print("asdfsdaf")
-        print("asa")
-        
-        
+       
         print("master code")
-        
-        print("New Comments in Master")
-        
+                
         // Do any additional setup after loading the view.
     }
 
